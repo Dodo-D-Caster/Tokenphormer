@@ -4,6 +4,8 @@
 
 The full version(with Appendix) is online now: [Tokenphormer](https://arxiv.org/abs/2412.15302).
 
+The SGPM Model Link: [pan.quark.cn/s/9d895622e551](https://pan.quark.cn/s/9d895622e551).
+
 ## Overview
 
 Graph Neural Networks (GNNs) are commonly used for graph data mining tasks, but they face issues like **over-smoothing** and **over-squashing**, limiting their receptive field. Graph Transformers, on the other hand, offer a global receptive field but suffer from noisy, irrelevant nodes and a loss of structural information.
