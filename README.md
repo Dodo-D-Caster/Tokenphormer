@@ -92,7 +92,6 @@ To set up the environment for Tokenphormer and SGPM, follow these steps:
 ## Citation
 
 If you find Tokenphormer useful for your research, please cite our paper.
-<!-- 
 ```
 @inproceedings{zhou2025tokenphormer,
   title={Tokenphormer: Structure-aware Multi-token Graph Transformer for Node Classification},
@@ -103,7 +102,7 @@ If you find Tokenphormer useful for your research, please cite our paper.
   pages={13428--13436},
   year={2025}
 }
-``` -->
+```
 
 ## License
 
