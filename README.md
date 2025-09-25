@@ -2,7 +2,7 @@
 
 **Tokenphormer** is a novel graph transfomer model designed to address limitations in traditional Graph Neural Networks (GNNs) and Graph Transformers by utilizing multi-token generation. This approach effectively captures both local and global information while retaining graph structural context.
 
-The full version is online now: [Tokenphormer]([https://ojs.aaai.org/index.php/AAAI/article/view/33466](https://ojs.aaai.org/index.php/AAAI/article/view/33466)).
+The full version is online now: [https://ojs.aaai.org/index.php/AAAI/article/view/33466](https://ojs.aaai.org/index.php/AAAI/article/view/33466).
 
 The SGPM Model Link: [pan.quark.cn/s/9d895622e551](https://pan.quark.cn/s/9d895622e551).
 
